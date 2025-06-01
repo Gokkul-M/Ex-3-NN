@@ -99,7 +99,7 @@ plt.ylabel("Loss")
 plt.grid(True)
 plt.show()
 ```
-Output:
+<h3>Output:</h3>
 ![Screenshot 2025-04-21 083620](https://github.com/user-attachments/assets/aa5d70f2-c023-4b67-8049-ad06676de81c)
 ![Screenshot 2025-04-21 083656](https://github.com/user-attachments/assets/0de8e519-7b83-4f4e-b534-0932a4a7f5b6)
 
